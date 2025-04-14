@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/your-username/project-bolt.git
+git add .
+git commit -m "Initial deploy-ready commit"
+git push -u origin main
